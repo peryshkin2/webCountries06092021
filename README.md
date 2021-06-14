@@ -166,8 +166,8 @@ http://localhost:8080/user/currencies
 
 
 What is missing: 
-No UI
-No parameter validation
-No Exception handling
-No Unit Tests.
+No UI; 
+No parameter validation; 
+No Exception handling; 
+No Unit Tests.; 
 
